@@ -6,7 +6,7 @@ This is a Regression model for a most common dataset, Flight Fare Data Predictio
 
 # Flight-Fare-Prediction-Web-App  
   Internship for Ineuron
-Link for the Web-App:- 
+ 
 
 ## Technical Aspect
 This project is divided into two part:
