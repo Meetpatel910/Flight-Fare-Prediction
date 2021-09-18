@@ -61,4 +61,5 @@ pip install -r requirements.txt
 [<img target="_blank" src="https://jupyter.org/assets/nav_logo.svg" width=150>](https://jupyter.org)
 
 
- 
+ Team Member :https://github.com/Larissavvy
+
