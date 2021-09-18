@@ -1,11 +1,11 @@
-#Flight-Fare-Predictio
-Internship for Ineuron
+
+
 
 ## Overview
 This is a Regression model for a most common dataset, Flight Fare Data Prediction for the flights with regards to their destination and source.
 
 # Flight-Fare-Prediction-Web-App  
-  
+  Internship for Ineuron
 Link for the Web-App:- 
 
 ## Technical Aspect
