@@ -13,7 +13,7 @@ This project is divided into two part:
 1. Training a [RandomForestClassifier](https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.RandomForestClassifier.html) classification model to predict defaulter as accurate as possible.
 	- Cleaning the datasets, fixing all features
 	- Apply Classification ML model
-2. Building and hosting a Flask web app on Heroku.
+2. Building and hosting a Flask API and hosting the model Locally.
 	- Build the web app using Flask API
 	- Upload the project on GitHub
     - Get the customer information from Web app
