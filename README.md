@@ -16,8 +16,7 @@ This project is divided into two part:
 2. Building and hosting a Flask API and hosting the model Locally.
 	- Build the web app using Flask API
 	- Upload the project on GitHub
-    - Get the customer information from Web app
-    - Display the prediction 
+    
   
 ## ML-Model-Flask-Deployment
 This is a project to elaborate how Machine Learn Models are made and deployed on production using Flask API
